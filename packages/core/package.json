@@ -1,0 +1,22 @@
+{
+  "name": "@facile-cli/core",
+  "version": "1.0.1",
+  "description": "core",
+  "author": "penghui.chen <penghui.chen@weimob.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@facile-cli/utils": "^1.0.0"
+  }
+}
